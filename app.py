@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="🌱 Growth Mindset Challenge", layout="centered")
+st.set_page_config(page_title="🌱 Growth_Mindset_Challenge", layout="centered")
 
-st.title("🌱 Growth Mindset Challenge")
+st.title("🌱 Growth_Mindset_Challenge")
 st.markdown("Welcome! Each day brings a new challenge to grow your mindset. Reflect, learn, and grow. 💪")
 
 # Challenge dictionary
